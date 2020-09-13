@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/pratikstemkar/">
   <img align="left" alt="Pratik's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/pratikstemkar">
-  <img align="left" alt="Pratik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="https://www.instagram.com/pratikstemkar/">
   <img align="left" alt="Pratik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -43,18 +40,20 @@ Hi, I'm Pratik Temkar, a Full Stack Developer 🚀 from India, currently, I'm a 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikstemkar&show_icons=true)
 
 ⭐️ From [pratikstemkar](https://github.com/pratikstemkar)
 
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
+<a href="https://github.com/pratikstemkar/FreeMind">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pratikstemkar&repo=FreeMind" />
 </a>
 
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
+<a href="https://github.com/pratikstemkar/slag-writer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pratikstemkar&repo=slag-writer" />
 </a>
 
 
