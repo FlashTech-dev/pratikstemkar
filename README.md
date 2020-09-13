@@ -23,7 +23,7 @@ Hi, I'm Pratik Temkar, a Full Stack Developer 🚀 from India, currently, I'm a 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: pratikstemkar@gmail.com;
-- 📝[Resume](https://github.com/pratikstemkar/pratikstemkar.github.io/blob/master/assets/pdf/Resume - Pratik Temkar - August 2020.pdf)
+- 📝[Resume](https://github.com/pratikstemkar/pratikstemkar.github.io/blob/master/assets/pdf/9888110_Pratik_Temkar_15609340_202008161234_Resume.pdf)
 
 <br />
 <br />
