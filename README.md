@@ -13,16 +13,16 @@
 <br />
 <br />
 
-Hi, I'm Pratik Temkar, a Full Stack Developer 🚀 from India, currently, I'm a Technical Core Member of 🙍🏽‍♂️ [@dscmescoe](https://github.com/orgs/Developer-Students-Clubs-MESCOE). Besides programming, I enjoy reading and travelling.
+Hi, I'm Pratik Temkar, a Full Stack Developer 🚀 from India. Currently, I'm a Technical Core Member of 🙍🏽‍♂️ [@dscmescoe](https://github.com/orgs/Developer-Students-Clubs-MESCOE). Besides programming, I enjoy reading and travelling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning everything; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: pratikstemkar@gmail.com;
+- 🌱 I’m currently learning everything.
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: pratikstemkar@gmail.com.
 - 📝[Resume](https://github.com/pratikstemkar/pratikstemkar.github.io/blob/master/assets/pdf/9888110_Pratik_Temkar_15609340_202008161234_Resume.pdf)
 
 <br />
