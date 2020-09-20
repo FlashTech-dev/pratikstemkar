@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Pratik Temkar, a Full Stack Developer 🚀 from India. Currently, I'm a Technical Core Member of 🙍🏽‍♂️ [@dscmescoe](https://github.com/orgs/Developer-Students-Clubs-MESCOE). Besides programming, I enjoy reading and travelling.
+Hi, I'm Pratik Temkar, a Full Stack Developer 🚀 from India. Currently, I'm a Technical Core Member 🙍🏽‍♂️ [@dscmescoe](https://github.com/orgs/Developer-Students-Clubs-MESCOE). Besides programming, I enjoy reading and travelling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
   
